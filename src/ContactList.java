@@ -24,7 +24,7 @@ public class ContactList {
 
         Scanner s = new Scanner(System.in);
         System.out.println("Select a type of contact to add");
-        System.out.println("1: Person");
+        System.out.println("1: Student");
         System.out.println("2: Athlete");
         int hold = s.nextInt();
         s.nextLine();
